@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="CyclePY/CyclePY.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="f6fa8a31-1bc0-4e04-9346-7114874dd565">
+    <Build Project="false" />
+  </Project>
+  <Project Path="Prac/Prac.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="d6c4dbd3-8996-4f18-8817-ff657e03e5bc">
+    <Build Project="false" />
+  </Project>
+</Solution>
